@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.third.ailib</groupId>
-  <artifactId>viomi_ailib</artifactId>
+  <artifactId>viomi-ailib</artifactId>
   <versioning>
     <release>1.1.52</release>
     <versions>

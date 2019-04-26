@@ -90,6 +90,10 @@
    ```
    上报设备位置到思必驰后台。
    ```
+   ViomiSpeechManager.getInstance().sendText("要传入的内容")
+   ```
+   使用文字调起语音技能，目前主要用于获取天气，如: "程序获取后台天气数据" + "城市名称"，会在天气技能回调JSON数据，但不会语音播放。
+   ```
    ViomiSpeechManager.getInstance().saveUserInfo(miId, viomiId, miClientId, viomiToken);
    ```
    设备每当登录或注销登录时，都需要调用此接口保存用户信息，否则语音控制设备的登录状态无法同步。

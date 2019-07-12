@@ -14,10 +14,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>viomi_speech_demo</groupId>
-      <artifactId>downloadlibrary</artifactId>
-      <version>unspecified</version>
+      <artifactId>downloadlibrary-release</artifactId>
+      <type>aar</type>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>androidx.constraintlayout</groupId>

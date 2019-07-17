@@ -3,7 +3,7 @@
   <groupId>com.viomi.apm</groupId>
   <artifactId>viomi-apm-lib</artifactId>
   <versioning>
-    <release>1.0.1.6</release>
+    <release>1.0.1.7</release>
     <versions>
       <version>1.0.0.0002</version>
       <version>1.0.0.3</version>
@@ -15,7 +15,8 @@
       <version>1.0.1.4</version>
       <version>1.0.1.5</version>
       <version>1.0.1.6</version>
+      <version>1.0.1.7</version>
     </versions>
-    <lastUpdated>20190715015312</lastUpdated>
+    <lastUpdated>20190717102521</lastUpdated>
   </versioning>
 </metadata>

@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>ch.acra</groupId>
+      <groupId>ViomiCrashReportSDK</groupId>
       <artifactId>acra-javacore</artifactId>
-      <version>5.4.1-SNAPSHOT</version>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

@@ -4,9 +4,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.viomi.crashreport</groupId>
   <artifactId>viomi-crashreport-lib</artifactId>
-  <version>1.0.0.2</version>
+  <version>1.0.0.3</version>
   <packaging>aar</packaging>
   <dependencies>
+    <dependency>
+      <groupId>com.viomi.crashreport</groupId>
+      <artifactId>acra-javacore</artifactId>
+      <version>1.0.0.3</version>
+      <scope>compile</scope>
+    </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>support-annotations</artifactId>

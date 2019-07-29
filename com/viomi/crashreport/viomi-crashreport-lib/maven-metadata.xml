@@ -3,10 +3,11 @@
   <groupId>com.viomi.crashreport</groupId>
   <artifactId>viomi-crashreport-lib</artifactId>
   <versioning>
-    <release>1.0.0.3</release>
+    <release>1.0.0.4</release>
     <versions>
       <version>1.0.0.3</version>
+      <version>1.0.0.4</version>
     </versions>
-    <lastUpdated>20190725104930</lastUpdated>
+    <lastUpdated>20190729090811</lastUpdated>
   </versioning>
 </metadata>

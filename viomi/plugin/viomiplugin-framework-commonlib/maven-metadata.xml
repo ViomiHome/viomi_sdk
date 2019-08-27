@@ -3,13 +3,14 @@
   <groupId>viomi.plugin</groupId>
   <artifactId>viomiplugin-framework-commonlib</artifactId>
   <versioning>
-    <release>1.0.0.5</release>
+    <release>1.0.0.6</release>
     <versions>
       <version>1.0.0.0</version>
       <version>1.0.0.3</version>
       <version>1.0.0.4</version>
       <version>1.0.0.5</version>
+      <version>1.0.0.6</version>
     </versions>
-    <lastUpdated>20190827091732</lastUpdated>
+    <lastUpdated>20190827095053</lastUpdated>
   </versioning>
 </metadata>

@@ -3,7 +3,7 @@
   <groupId>viomi.plugin</groupId>
   <artifactId>viomiplugin-framework-host</artifactId>
   <versioning>
-    <release>1.0.0.9</release>
+    <release>1.0.0.10</release>
     <versions>
       <version>1.0.0.0</version>
       <version>1.0.0.2</version>
@@ -14,7 +14,8 @@
       <version>1.0.0.7</version>
       <version>1.0.0.8</version>
       <version>1.0.0.9</version>
+      <version>1.0.0.10</version>
     </versions>
-    <lastUpdated>20190902095858</lastUpdated>
+    <lastUpdated>20190902100335</lastUpdated>
   </versioning>
 </metadata>

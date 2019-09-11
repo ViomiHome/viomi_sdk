@@ -38,18 +38,16 @@
   ViotSDK.getInstance().removeListener(ViotSDKListener listener);
   ```
   3. 扫描附近V-IOT设备
-  （1）开始扫描设备
+  
   ```
-   //开始扫描设备
+   //(1)开始扫描设备
   ViotSDK.getInstance().startScan();
   
   //回调接口
   public void didScanDevices(ViotSDKErrorCode code, List<MeshBleDevice> devices) {
     
   }
-  ```
-  （2）停止扫描设备
-  ```
+  //（2）停止扫描设备
   ViotSDK.getInstance().stopScan();
   ```
   4. 扫描当前网络下V-IOT网关设备
@@ -58,18 +56,49 @@
         });
   ```
   5. 配网
-  （1）当前网络有网关设备，进行配网（需要输入WiFi密码）
   ```
+  //（1）当前网络有网关设备，进行配网（需要输入WiFi密码）
+  ViotSDK.getInstance().startConfigure(meshBleDevices, wifiInfo, password); 
   
-  ```
-  （2）当前网络无网关设备，进行配网
-  ```
+  //（2）当前网络无网关设备，进行配网
+  ViotSDK.getInstance().startConfigureChildren(meshBleDevices);
+  
+  //（3）配网的回调
+  //code 错误码， prorgess 进度，  meshBleDevices配置成功的设备列表
+  public void didConfigDevices(ViotSDKErrorCode code, int prorgess, List<MeshBleDevice> meshBleDevices) {
+      
+  }
   ```
   6. 获取设备列表
   ```
+  //获取设备列表
+  ViotSDK.getInstance().getRemoteDeviceList(); 
+  
+  //回调接口
+  public void didRemoteDevices(ViotSDKErrorCode code, List<VDevice> devices){
+  
+  }
   ```
   7. 解绑设备
   ```
+  //解绑设备
+  ViotSDK.getInstance().unbind(did); 
+  
+  //回调接口
+  public void didUnbindDevice(ViotSDKErrorCode code) {
+  
+  }
   ```
+  7. 重命名设备
+  ```
+  //重命名设备
+  ViotSDK.getInstance().rename(did, name); 
+    
+  //回调接口
+  public void didRenameDevice(ViotSDKErrorCode code, String did) {
+  
+  }
+  ...
+  
   
     

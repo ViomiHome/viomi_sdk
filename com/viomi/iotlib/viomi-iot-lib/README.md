@@ -3,7 +3,7 @@
 ### 最新版本：1.0.4
 ### 修改日期：2019.09.11
 ## 使用方法
-### 基础配置使用
+### 一、基础配置使用
   1. 在你项目根目录下的 build.gradle 文件配置 maven 仓库地址：
   ```
   repositories {
@@ -28,5 +28,48 @@
   ```
   ViotSDK.getInstance().deleteViomiUser();
   ```
-### 配网模块
- 
+### 二、配网模块
+  1. 设置监听器
+  ```
+  ViotSDK.getInstance().addListener(ViotSDKListener listener);
+  ```
+  2. 移除监听器（activity ondestory时记得移除，防止内存泄漏）
+  ```
+  ViotSDK.getInstance().removeListener(ViotSDKListener listener);
+  ```
+  3. 扫描附近V-IOT设备
+  （1）开始扫描设备
+  ```
+   //开始扫描设备
+  ViotSDK.getInstance().startScan();
+  
+  //回调接口
+  public void didScanDevices(ViotSDKErrorCode code, List<MeshBleDevice> devices) {
+    
+  }
+  ```
+  （2）停止扫描设备
+  ```
+  ViotSDK.getInstance().stopScan();
+  ```
+  4. 扫描当前网络下V-IOT网关设备
+  ```
+  ViotSDK.getInstance().scanMesh(meshs -> { //返回网关列表
+        });
+  ```
+  5. 配网
+  （1）当前网络有网关设备，进行配网（需要输入WiFi密码）
+  ```
+  
+  ```
+  （2）当前网络无网关设备，进行配网
+  ```
+  ```
+  6. 获取设备列表
+  ```
+  ```
+  7. 解绑设备
+  ```
+  ```
+  
+    

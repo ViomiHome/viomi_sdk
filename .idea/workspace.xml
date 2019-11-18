@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="1.更新语音SDK到1.4.2">
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="1.更新语音SDK到1.4.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,9 +28,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573811196542</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1.更新云米语音SDK">
+      <created>1574056397289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574056397289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.更新语音SDK到1.4.3">
+      <created>1574056976334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574056976334</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -125,6 +139,8 @@
     <MESSAGE value="1.更新DDS和云米语音SDK" />
     <MESSAGE value="1.更新语音SDK到1.4.1" />
     <MESSAGE value="1.更新语音SDK到1.4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.4.2" />
+    <MESSAGE value="1.更新云米语音SDK" />
+    <MESSAGE value="1.更新语音SDK到1.4.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.4.3" />
   </component>
 </project>

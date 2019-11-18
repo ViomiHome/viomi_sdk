@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="1.更新语音SDK到1.4.3">
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="1.更新云米语音SDK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,9 +28,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574056976334</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.更新云米语音SDK">
+      <created>1574071483904</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574071483904</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -139,8 +146,8 @@
     <MESSAGE value="1.更新DDS和云米语音SDK" />
     <MESSAGE value="1.更新语音SDK到1.4.1" />
     <MESSAGE value="1.更新语音SDK到1.4.2" />
-    <MESSAGE value="1.更新云米语音SDK" />
     <MESSAGE value="1.更新语音SDK到1.4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.4.3" />
+    <MESSAGE value="1.更新云米语音SDK" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新云米语音SDK" />
   </component>
 </project>

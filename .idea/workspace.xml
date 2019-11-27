@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/viomi_sdk.iml" beforeDir="false" />
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="设备卡片sdk 2.1.8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.sha1">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -35,16 +31,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1246" />
-    <option name="y" value="23" />
+    <option name="x" value="-1314" />
+    <option name="y" value="-70" />
     <option name="width" value="1246" />
-    <option name="height" value="777" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -209,27 +205,39 @@
       <option name="project" value="LOCAL" />
       <updated>1574731378032</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="设备卡片sdk 2.1.8">
+      <created>1574734977275</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574734977275</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1824" y="-257" width="1612" height="1057" extended-state="0" />
+    <frame x="-1314" y="-70" width="1246" height="870" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.2764331" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.42524916" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Structure" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50063694" side_tool="true" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5024917" side_tool="true" visible="true" weight="0.19602649" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="2" sideWeight="0.49936306" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49750832" visible="true" weight="0.19602649" />
       <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -250,5 +258,21 @@
     <MESSAGE value="1.更新云米语音SDK" />
     <MESSAGE value="设备卡片sdk 2.1.8" />
     <option name="LAST_COMMIT_MESSAGE" value="设备卡片sdk 2.1.8" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.md5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.sha1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

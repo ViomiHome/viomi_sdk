@@ -1,8 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="1.更新语音SDK到1.4.4">
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="解决冲突">
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.9/viomi-device-lib-2.1.9.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.9/viomi-device-lib-2.1.9.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.9/viomi-device-lib-2.1.9.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.9/viomi-device-lib-2.1.9.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.9/viomi-device-lib-2.1.9.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.9/viomi-device-lib-2.1.9.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.0/viomi-device-lib-2.2.0.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.0/viomi-device-lib-2.2.0.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.0/viomi-device-lib-2.2.0.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.0/viomi-device-lib-2.2.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.0/viomi-device-lib-2.2.0.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.0/viomi-device-lib-2.2.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.1/viomi-device-lib-2.2.1.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.1/viomi-device-lib-2.2.1.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.1/viomi-device-lib-2.2.1.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.1/viomi-device-lib-2.2.1.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.1/viomi-device-lib-2.2.1.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.2.1/viomi-device-lib-2.2.1.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.0/iot_device_lib-1.0.0.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.0/iot_device_lib-1.0.0.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.0/iot_device_lib-1.0.0.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.0/iot_device_lib-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.0/iot_device_lib-1.0.0.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.0/iot_device_lib-1.0.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.1/iot_device_lib-1.0.1.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.1/iot_device_lib-1.0.1.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.1/iot_device_lib-1.0.1.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.1/iot_device_lib-1.0.1.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.1/iot_device_lib-1.0.1.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/1.0.1/iot_device_lib-1.0.1.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/iotdevice/iot_device_lib/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/1.0/miio-lib-1.0.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/1.0/miio-lib-1.0.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/1.0/miio-lib-1.0.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/1.0/miio-lib-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/1.0/miio-lib-1.0.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/1.0/miio-lib-1.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/miio/miio-lib/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.1/viomi-vmui_android-lib-1.0.1.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.1/viomi-vmui_android-lib-1.0.1.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.1/viomi-vmui_android-lib-1.0.1.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.1/viomi-vmui_android-lib-1.0.1.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.1/viomi-vmui_android-lib-1.0.1.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.1/viomi-vmui_android-lib-1.0.1.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.2/viomi-vmui_android-lib-1.0.2.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.2/viomi-vmui_android-lib-1.0.2.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.2/viomi-vmui_android-lib-1.0.2.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.2/viomi-vmui_android-lib-1.0.2.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.2/viomi-vmui_android-lib-1.0.2.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.2/viomi-vmui_android-lib-1.0.2.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.3/viomi-vmui_android-lib-1.0.3.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.3/viomi-vmui_android-lib-1.0.3.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.3/viomi-vmui_android-lib-1.0.3.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.3/viomi-vmui_android-lib-1.0.3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.3/viomi-vmui_android-lib-1.0.3.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/1.0.3/viomi-vmui_android-lib-1.0.3.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/viomi/vmui_android/viomi-vmui_android-lib/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/viomi_sdk.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml.sha1" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +89,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/viomi_sdk.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-260" />
@@ -30,7 +136,22 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,19 +257,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.32980973" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.33476394" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Structure" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32962137" />
       <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Flutter Performance" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -171,6 +298,16 @@
     <MESSAGE value="1.更新语音SDK到1.4.3" />
     <MESSAGE value="1.更新云米语音SDK" />
     <MESSAGE value="1.更新语音SDK到1.4.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.4.4" />
+    <MESSAGE value="解决冲突" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决冲突" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.sha1">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -28,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -50,7 +48,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -93,15 +90,6 @@
             <path>
               <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
               <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="devicelib" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi-device-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="2.2.2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
               <item name="viomi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -114,6 +102,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576058711145</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="设备卡片sdk 2.2.3">
+      <created>1576476630665</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1576476630665</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -260,18 +256,18 @@
       <window_info id="Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.45516074" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.46277496" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Structure" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50507617" side_tool="true" visible="true" weight="0.28450108" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50592214" side_tool="true" visible="true" weight="0.28450108" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49492386" visible="true" weight="0.28450108" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49407783" visible="true" weight="0.28450108" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Run" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -300,7 +296,8 @@
     <MESSAGE value="设备卡片sdk 2.2.0" />
     <MESSAGE value="设备卡片sdk 2.2.1" />
     <MESSAGE value="设备卡片sdk 2.2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="设备卡片sdk 2.2.2" />
+    <MESSAGE value="设备卡片sdk 2.2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="设备卡片sdk 2.2.3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.md5">
@@ -313,14 +310,14 @@
     <entry file="file://$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.sha1">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>

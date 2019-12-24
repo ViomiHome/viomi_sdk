@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/1.0.9/viomi-iot-lib-1.0.9.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/1.0.9/viomi-iot-lib-1.0.9.aar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/1.0.9/viomi-iot-lib-1.0.9.aar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/1.0.9/viomi-iot-lib-1.0.9.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/1.0.9/viomi-iot-lib-1.0.9.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/1.0.9/viomi-iot-lib-1.0.9.pom.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.sha1" afterDir="false" />
-    </list>
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="300">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -76,92 +64,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="devicelib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="devicelib" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi-device-lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="devicelib" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi-device-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="2.1.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="iotlib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="iotlib" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi-iot-lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="iotlib" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi-iot-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0.9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -320,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576487000493</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="viot 1.0.9">
+      <created>1577152223792</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1577152223792</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -330,13 +240,13 @@
       <window_info id="Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.33333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.33333334" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Structure" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="0" sideWeight="0.5084602" side_tool="true" visible="true" weight="0.38853502" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5084602" side_tool="true" visible="true" weight="0.38853502" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49153978" visible="true" weight="0.38853502" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49153978" weight="0.38853502" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Run" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" />
@@ -371,7 +281,8 @@
     <MESSAGE value="设备卡片sdk 2.2.1" />
     <MESSAGE value="设备卡片sdk 2.2.3" />
     <MESSAGE value="设备卡片sdk 2.2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="设备卡片sdk 2.2.2" />
+    <MESSAGE value="viot 1.0.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="viot 1.0.9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.md5">
@@ -396,8 +307,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>

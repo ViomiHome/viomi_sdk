@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="345">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -54,7 +54,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1643" />
+    <option name="x" value="-1534" />
     <option name="y" value="-257" />
     <option name="width" value="1224" />
     <option name="height" value="1057" />
@@ -64,8 +64,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -230,23 +251,38 @@
       <option name="project" value="LOCAL" />
       <updated>1577152223792</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="viot 1.0.9">
+      <created>1577152294291</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1577152294291</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge branch 'master' of https://github.com/ViomiHome/viomi_sdk&#10;&#10;# Conflicts:&#10;#&#9;.idea/codeStyles/Project.xml">
+      <created>1577152326204</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1577152326205</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1643" y="-257" width="1224" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.33333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.3392555" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Structure" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5084602" side_tool="true" visible="true" weight="0.38853502" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50930625" side_tool="true" visible="true" weight="0.38853502" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49153978" weight="0.38853502" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49069375" visible="true" weight="0.38853502" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Run" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" />
@@ -282,7 +318,8 @@
     <MESSAGE value="设备卡片sdk 2.2.3" />
     <MESSAGE value="设备卡片sdk 2.2.2" />
     <MESSAGE value="viot 1.0.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="viot 1.0.9" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/ViomiHome/viomi_sdk&#10;&#10;# Conflicts:&#10;#&#9;.idea/codeStyles/Project.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/ViomiHome/viomi_sdk&#10;&#10;# Conflicts:&#10;#&#9;.idea/codeStyles/Project.xml" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.md5">
@@ -307,8 +344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="345">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>

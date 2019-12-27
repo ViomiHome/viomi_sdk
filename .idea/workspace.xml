@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="" />
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="更新语音SDK到1.4.7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,36 +14,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/viomi/iotlib/viomi-iot-lib/maven-metadata.xml.sha1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="40" selection-start-column="40" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml.sha1">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml.md5">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,72 +26,20 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1304" />
-    <option name="y" value="-257" />
-    <option name="width" value="1224" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="devicelib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-              <item name="devicelib" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi-device-lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="viomi_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="viomi_sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="viomi" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,24 +231,30 @@
       <option name="project" value="LOCAL" />
       <updated>1577158871998</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="更新语音SDK到1.4.7">
+      <created>1577429135553</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1577429135553</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1304" y="-257" width="1224" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.34517765" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.25804722" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Structure" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5101523" side_tool="true" visible="true" weight="0.38853502" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5107296" side_tool="true" weight="0.26837417" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.48984772" visible="true" weight="0.38853502" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.4892704" weight="0.26837417" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Run" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" />
@@ -365,7 +292,8 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/ViomiHome/viomi_sdk&#10;&#10;# Conflicts:&#10;#&#9;.idea/codeStyles/Project.xml" />
     <MESSAGE value="viot 1.0.10" />
     <MESSAGE value="设备卡片sdk 2.2.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="设备卡片sdk 2.2.3" />
+    <MESSAGE value="更新语音SDK到1.4.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新语音SDK到1.4.7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.md5">
@@ -390,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/maven-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="276">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="更新语音SDK到1.4.7">
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="更新思必驰语音SDK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +14,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,8 +37,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577429135553</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="更新思必驰语音SDK">
+      <created>1577442771690</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1577442771690</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -248,7 +255,7 @@
       <window_info id="Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.25804722" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.26180258" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Structure" order="7" side_tool="true" />
@@ -293,7 +300,8 @@
     <MESSAGE value="viot 1.0.10" />
     <MESSAGE value="设备卡片sdk 2.2.3" />
     <MESSAGE value="更新语音SDK到1.4.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新语音SDK到1.4.7" />
+    <MESSAGE value="更新思必驰语音SDK" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新思必驰语音SDK" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/viomi/devicelib/viomi-device-lib/2.1.8/viomi-device-lib-2.1.8.pom.md5">

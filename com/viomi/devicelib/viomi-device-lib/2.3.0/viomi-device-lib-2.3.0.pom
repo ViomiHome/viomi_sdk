@@ -65,9 +65,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>viomi_device_lib</groupId>
+      <groupId>com.viomi.iotlib</groupId>
       <artifactId>viomi-iot-lib</artifactId>
-      <version>unspecified</version>
+      <version>1.1.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

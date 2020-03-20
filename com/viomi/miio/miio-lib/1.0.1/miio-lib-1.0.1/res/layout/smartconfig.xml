@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:gravity="center">
+    
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="20dp"
+        android:ems="10"
+         android:layout_centerHorizontal="true"
+        android:hint="ssid" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/editText1"
+        android:ems="10"
+        android:hint="password"
+        android:visibility="invisible" >
+
+        <requestFocus />
+    </EditText>
+
+    <!-- 
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editText2"
+        android:ems="10"
+        android:hint="last mac (4 chars)" /> -->
+<!-- 
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editText3"
+        android:ems="10"
+        android:hint="setupcode (4 chars)" /> -->
+<!-- 
+    <Button
+        android:id="@+id/scbutton3"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/scbutton1"
+        android:layout_alignBottom="@+id/scbutton1"
+        android:layout_centerHorizontal="true"
+        android:text="scan&amp;ok" />
+ 
+    <Button
+        android:id="@+id/scbutton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/scbutton3"
+        android:text="trigger" />-->
+<!-- 
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/scbutton2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:hint="uid" /> -->
+
+    <Button
+        android:id="@+id/scbutton1"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/editText2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="18dp"
+        android:layout_centerHorizontal="true"
+        android:text="ok" />
+
+</RelativeLayout>

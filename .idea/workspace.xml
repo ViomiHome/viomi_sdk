@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586399027850</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="1.更新语音SDK到1.5.2">
+      <created>1586401639562</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1586401639562</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -317,6 +322,7 @@
     <MESSAGE value="1.更新VIOT SDK到1.0.7" />
     <MESSAGE value="1.更新VIOT SDK到1.0.8" />
     <MESSAGE value="1.更新语音SDK" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK" />
+    <MESSAGE value="1.更新语音SDK到1.5.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.5.2" />
   </component>
 </project>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="" />
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587730315946</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="1.更新语音SDK到1.5.5">
+      <created>1588226504158</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1588226504158</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -329,7 +338,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.更新语音SDK到1.4.1" />
     <MESSAGE value="1.更新语音SDK到1.4.2" />
     <MESSAGE value="1.更新语音SDK到1.4.3" />
     <MESSAGE value="1.更新云米语音SDK" />
@@ -354,6 +362,7 @@
     <MESSAGE value="1.更新串口SDK到1.0.9" />
     <MESSAGE value="1.更新串口SDK到1.1.0" />
     <MESSAGE value="1.更新语音SDK到1.5.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.5.4" />
+    <MESSAGE value="1.更新语音SDK到1.5.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.5.5" />
   </component>
 </project>

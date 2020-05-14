@@ -3,10 +3,10 @@
   <groupId>com.third.ailib</groupId>
   <artifactId>viomi-ailib</artifactId>
   <versioning>
-    <release>1.1.66</release>
+    <release>1.1.67</release>
     <versions>
-      <version>1.1.66</version>
+      <version>1.1.67</version>
     </versions>
-    <lastUpdated>20200409855536</lastUpdated>
+    <lastUpdated>20200514855536</lastUpdated>
   </versioning>
 </metadata>

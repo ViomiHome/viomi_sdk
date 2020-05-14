@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589278003009</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="1.更新语音SDK">
+      <created>1589420605309</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1589420605309</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -396,7 +403,6 @@
     <MESSAGE value="viot 1.1.0" />
     <MESSAGE value="1.更新VIOT SDK到1.0.7" />
     <MESSAGE value="1.更新VIOT SDK到1.0.8" />
-    <MESSAGE value="1.更新语音SDK" />
     <MESSAGE value="1.更新语音SDK到1.5.2" />
     <MESSAGE value="1.更新语音SDK到1.5.3" />
     <MESSAGE value="1.更新串口SDK到1.0.9" />
@@ -410,6 +416,7 @@
     <MESSAGE value="1.更新语音SDK到1.6.0" />
     <MESSAGE value="1.更新语音SDK到1.6.1" />
     <MESSAGE value="1.更新语音SDK到1.6.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.6.2" />
+    <MESSAGE value="1.更新语音SDK" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK" />
   </component>
 </project>

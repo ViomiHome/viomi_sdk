@@ -372,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589420972127</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="1.更新语音AI SDK">
+      <created>1589442052864</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1589442052864</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -399,7 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="viot 1.0.9" />
     <MESSAGE value="Merge branch 'master' of https://github.com/ViomiHome/viomi_sdk&#10;&#10;# Conflicts:&#10;#&#9;.idea/codeStyles/Project.xml" />
     <MESSAGE value="viot 1.0.10" />
     <MESSAGE value="设备卡片sdk 2.2.3" />
@@ -424,6 +430,7 @@
     <MESSAGE value="1.更新语音SDK到1.6.2" />
     <MESSAGE value="1.更新语音SDK" />
     <MESSAGE value="1.更新语音SDK到1.6.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.6.3" />
+    <MESSAGE value="1.更新语音AI SDK" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音AI SDK" />
   </component>
 </project>

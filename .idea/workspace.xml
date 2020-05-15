@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/com/viomi/speech/viomi-speech-lib/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/speech/viomi-speech-lib/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/viomi/speech/viomi-speech-lib/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/speech/viomi-speech-lib/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/viomi/speech/viomi-speech-lib/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/viomi/speech/viomi-speech-lib/maven-metadata.xml.sha1" afterDir="false" />
-    </list>
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +42,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572595601650</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1.更新语音SDK到1.4.1">
-      <created>1573456272421</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1573456272421</updated>
     </task>
     <task id="LOCAL-00003" summary="1.更新语音SDK到1.4.2">
       <created>1573811028763</created>
@@ -390,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589456004226</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="1.更新语音SDK到1.6.5">
+      <created>1589456254647</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1589456254647</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -417,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="设备卡片sdk 2.2.3" />
     <MESSAGE value="更新语音SDK到1.4.7" />
     <MESSAGE value="更新思必驰语音SDK" />
     <MESSAGE value="1.更新语音SDK到1.4.8" />
@@ -442,6 +437,7 @@
     <MESSAGE value="1.更新语音AI SDK" />
     <MESSAGE value="1.更新语音SDK到1.6.4" />
     <MESSAGE value="1.更新语音Ai SDK" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音Ai SDK" />
+    <MESSAGE value="1.更新语音SDK到1.6.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.6.5" />
   </component>
 </project>

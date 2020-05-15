@@ -3,7 +3,7 @@
   <groupId>com.viomi.speech</groupId>
   <artifactId>viomi-speech-lib</artifactId>
   <versioning>
-    <release>1.6.5</release>
+    <release>1.6.6</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -65,7 +65,8 @@
       <version>1.6.3</version>
       <version>1.6.4</version>
       <version>1.6.5</version>
+      <version>1.6.6</version>
     </versions>
-    <lastUpdated>20200514113642</lastUpdated>
+    <lastUpdated>20200515095040</lastUpdated>
   </versioning>
 </metadata>

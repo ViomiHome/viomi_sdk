@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="70f50cec-bee2-430c-898c-f1a86e2b62a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +42,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572595601650</updated>
-    </task>
-    <task id="LOCAL-00010" summary="设备卡片sdk 2.1.8">
-      <created>1574731378032</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1574731378032</updated>
-    </task>
-    <task id="LOCAL-00011" summary="设备卡片sdk 2.1.8">
-      <created>1574734977275</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1574734977275</updated>
     </task>
     <task id="LOCAL-00012" summary="设备卡片sdk 2.1.9">
       <created>1574821514679</created>
@@ -388,7 +372,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589876959083</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="1.更新语音AI SDK">
+      <created>1589887093574</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1589887093574</updated>
+    </task>
+    <task id="LOCAL-00060" summary="1.更新语音SDK到1.7.1">
+      <created>1589887255119</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1589887255120</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -415,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.更新VIOT SDK到1.0.8" />
     <MESSAGE value="1.更新语音SDK到1.5.2" />
     <MESSAGE value="1.更新语音SDK到1.5.3" />
     <MESSAGE value="1.更新串口SDK到1.0.9" />
@@ -436,10 +433,11 @@
     <MESSAGE value="1.更新语音SDK到1.6.5" />
     <MESSAGE value="1.更新语音SDK到1.6.6" />
     <MESSAGE value="1.更新语音SDK到1.6.7" />
-    <MESSAGE value="1.更新语音AI SDK" />
     <MESSAGE value="1.更新语音SDK 1.6.8" />
     <MESSAGE value="1.更新语音SDK 1.6.9" />
     <MESSAGE value="1.更新语音SDK 1.7.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK 1.7.0" />
+    <MESSAGE value="1.更新语音AI SDK" />
+    <MESSAGE value="1.更新语音SDK到1.7.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.7.1" />
   </component>
 </project>

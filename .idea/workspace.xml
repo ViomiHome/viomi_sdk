@@ -43,13 +43,6 @@
       <option name="presentableId" value="Default" />
       <updated>1572595601650</updated>
     </task>
-    <task id="LOCAL-00013" summary="设备卡片sdk 2.2.0">
-      <created>1575272466989</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1575272466989</updated>
-    </task>
     <task id="LOCAL-00014" summary="设备卡片sdk 2.2.1">
       <created>1575945942231</created>
       <option name="number" value="00014" />
@@ -386,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589888356233</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="1.更新语音SDK到1.7.3">
+      <created>1590063856040</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1590063856041</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -413,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.更新语音SDK到1.5.3" />
     <MESSAGE value="1.更新串口SDK到1.0.9" />
     <MESSAGE value="1.更新串口SDK到1.1.0" />
     <MESSAGE value="1.更新语音SDK到1.5.4" />
@@ -438,6 +437,7 @@
     <MESSAGE value="1.更新语音AI SDK" />
     <MESSAGE value="1.更新语音SDK到1.7.1" />
     <MESSAGE value="1.更新语音SDK到1.7.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.7.2" />
+    <MESSAGE value="1.更新语音SDK到1.7.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新语音SDK到1.7.3" />
   </component>
 </project>

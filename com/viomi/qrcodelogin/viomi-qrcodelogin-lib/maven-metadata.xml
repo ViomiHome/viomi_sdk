@@ -3,13 +3,14 @@
   <groupId>com.viomi.qrcodelogin</groupId>
   <artifactId>viomi-qrcodelogin-lib</artifactId>
   <versioning>
-    <release>1.0.0.3</release>
+    <release>1.0.0.4</release>
     <versions>
       <version>1.0.0.0</version>
       <version>1.0.0.1</version>
       <version>1.0.0.2</version>
       <version>1.0.0.3</version>
+      <version>1.0.0.4</version>
     </versions>
-    <lastUpdated>20200424064835</lastUpdated>
+    <lastUpdated>20200527035705</lastUpdated>
   </versioning>
 </metadata>
